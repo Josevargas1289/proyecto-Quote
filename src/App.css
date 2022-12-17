@@ -32,10 +32,7 @@
     animation: logo-spin infinite 20s linear;
   }
 }
-
-
-
-
+/* ############### css app ################# */
 .card{
   position: relative;
   background-color: #ffffff;

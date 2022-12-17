@@ -42,7 +42,8 @@
   width: 100%;
   box-shadow: 1px 1px 5px white ;
   font-size: 20px;
-  font-weight: bold;
+ font-weight: lighter;
+ font-family:'Times New Roman', Times, serif;
 }
 
 .quote{

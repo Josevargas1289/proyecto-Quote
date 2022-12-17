@@ -46,7 +46,7 @@ function App() {
         </div>
        
       </div>
-     
+      <footer className='footer'>&copy; Todos los derechos reservador: José R Vargas</footer>
     </div>
   )
 }

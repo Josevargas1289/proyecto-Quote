@@ -95,6 +95,12 @@
 
 
 }
+.footer{
+  position:absolute;
+  right: 1rem;
+  bottom: 1rem;
+  color: rgba(0, 0, 0, 0.364);
+}
 
 
 

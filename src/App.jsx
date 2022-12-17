@@ -36,13 +36,13 @@ function App() {
     <div className="App">
       <div  className='card' style={{color: colors[ramdomColors].hex}}>
         <div className='quote'>
-          <span className='quote-icon'><i class="fa-solid fa-quote-left"></i></span>
+          <span className='quote-icon'><i className="fa-solid fa-quote-left"></i></span>
           <p>{quoteMesage}</p>
         </div>
 
         <div className='autor'>
           <span>{quoteAutor}</span>
-          <button style={{color: colors[ramdomColors].hex}} onClick={ChangeCuote}className='btn-autor'><i class="fa-solid fa-circle-chevron-right"></i></button>
+          <button style={{color: colors[ramdomColors].hex}} onClick={ChangeCuote}className='btn-autor'><i className="fa-solid fa-circle-chevron-right"></i></button>
         </div>
        
       </div>

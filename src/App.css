@@ -41,7 +41,7 @@
   background-color: #ffffff;
   width: 100%;
   box-shadow: 1px 1px 5px white ;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -50,7 +50,6 @@
   flex-direction: row;
   justify-content: space-evenly;
   justify-items: center;
-  align-items: center;
   align-content: center;
   width: 90%;
   gap: .5rem;
@@ -58,6 +57,10 @@
   line-height: 2rem;
 
   
+}
+.quote-icon{
+  margin-top: .8rem;
+
 }
 .autor{
 
@@ -73,7 +76,8 @@
   align-content: center;
 }
 .btn-autor{
-
+    padding-right: 5rem;
+    margin-top: .5rem;
     padding: 0px;
     border-radius: 50%;
     width: 46px;

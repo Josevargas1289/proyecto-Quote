@@ -40,9 +40,7 @@ const QuoteBox = () => {
           <button style={{color: colors[ramdomColors].hex}} onClick={ChangeCuote}className='btn-autor'><i className="fa-solid fa-circle-chevron-right"></i></button>
         </div>
        
-      </div>
-      <footer className='footer'>&copy; Todos los derechos reservador: José R Vargas</footer>
-            
+      </div>            
         </div>
     );
 };
